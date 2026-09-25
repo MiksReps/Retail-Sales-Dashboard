@@ -1,4 +1,3 @@
-# Retail-Sales-Dashboard
 # Retail Store Sales Dashboard
 
 An interactive **Power BI dashboard** created from a retail store dataset to analyze sales performance, customer transactions, product categories, payment methods, and branch performance.
